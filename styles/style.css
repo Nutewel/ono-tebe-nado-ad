@@ -39,7 +39,7 @@
 }
 
 .header__logo {
-  width: 129.11196899414062px; 
+  width: 129.11196899414062px;
 }
 
 .header__logo-image {
@@ -82,7 +82,7 @@
   position: absolute;
   inset: 0;
   z-index: 1;
-  background-color: rgba(0 0 0 / 0.6);       
+  background-color: rgba(0 0 0 / 0.6);
 }
 
 .cover__title {
@@ -265,25 +265,25 @@
   height: 100%;
 }
 
-.about__logo { 
+.about__logo {
   top: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 240px; 
+  width: 240px;
   height: 240px;
-  margin: 34px auto 0; 
+  margin: 34px auto 0;
   border-radius: 50%;
   background-color: black;
 }
 
 .about__logo-image {
-  width: 148px; 
+  width: 148px;
   height: 114px;
 }
 
 .about__content {
-  display: flex; 
+  display: flex;
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-start;
@@ -294,7 +294,7 @@
   color: black;
   font-family: 'Raleway';
   font-weight: bold;
-  font-size: 40px;     
+  font-size: 40px;
   text-transform: uppercase;
 }
 
@@ -363,6 +363,6 @@
 }
 
 .footer__social-icon {
-  width:48px; 
+  width:48px;
   height: 48px;
 }
